@@ -9,6 +9,8 @@
 #include <iomanip>
 
 float Calculate(int radius, int height) {
+    // This function calculates the volume of a cylinder
+
     // Variables
     const float pi = M_PI;
     float area;
